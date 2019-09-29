@@ -9,6 +9,10 @@ comoit
 commie
 Commit #2 during squash activity
 
+
+more stuff
+
+yup
 Commit #3 during squash activity
 
 Commit #4 during squash activity
@@ -17,6 +21,8 @@ Commit #5 during squash activity
 
 Commit #6 during squash activity
 
+
+Uh huh
 Commit #7 during squash activity
 
 Commit #8 during squash activity
